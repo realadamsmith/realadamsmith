@@ -4,8 +4,7 @@
 <!--
 **realadamsmith/realadamsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://realadamsmith.github.io/Logbook/#/page/Inbox
-
+[Website](https://realadamsmith.github.io/Logbook/#/page/Inbox)
 
 Here are some ideas to get you started:
 
