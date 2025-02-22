@@ -1,6 +1,6 @@
 ### It's Adam
 
-[Resume](https://docs.google.com/document/d/19xlEVkXqQbj_SU8mHCTDl3kk8HiwLL9L5B-csqx3DRs/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/1JyD7zd8yo1cSrXfveBFp2ITePrDxj3QUyKxv6xPLIPo/edit?usp=sharing)
 
 [Website](https://realadamsmith.github.io/Logbook/#/page/Inbox)
 
