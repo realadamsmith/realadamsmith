@@ -1,7 +1,5 @@
 ### It's Adam
 
-[Resume](https://docs.google.com/document/d/1JyD7zd8yo1cSrXfveBFp2ITePrDxj3QUyKxv6xPLIPo/edit?usp=sharing)
-
 [Website](https://realadamsmith.github.io/Logbook/#/page/Inbox)
 
 <!--
